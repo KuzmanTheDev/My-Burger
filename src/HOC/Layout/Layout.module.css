@@ -1,0 +1,9 @@
+.mainSpacing{
+    margin: 70px;
+}
+
+@media(max-width:500px){
+    .mainSpacing{
+         margin: 70px 5px;
+     }
+ }
